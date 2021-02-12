@@ -505,6 +505,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     align-items: center;
     flex-direction: column;
 }
+
 .single-profile {
     position: relative;
     height: 150px;
@@ -521,9 +522,22 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }
 .profile-icon-name {
     text-transform: capitalize;
-    color: #636a82;
+    color: blue;
     font-size: 16px;
 }
+
+.ian {
+    color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.kip {
+    color: blue;
+    text-decoration: ;
+}
+
 .single-profile.profile-no-border{border-right:transparent;}
 .profile-border {
     border-bottom: 1px solid #b2c1ce;
