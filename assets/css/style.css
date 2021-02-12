@@ -535,7 +535,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 .kip {
     color: blue;
-    text-decoration: ;
+    text-decoration: underline;
 }
 
 .single-profile.profile-no-border{border-right:transparent;}
