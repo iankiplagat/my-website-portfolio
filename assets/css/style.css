@@ -655,6 +655,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     top:0;
 }/*.isotope-overlay*/
 
+.ab {
+    color: blue;
+    text-decoration: underline;
+}
+
 /*-------------------------------------
         11. Contact
 --------------------------------------*/
